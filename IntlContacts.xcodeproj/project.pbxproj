@@ -11,6 +11,7 @@
 		047DDFBF27D5431E00268784 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047DDFBE27D5431E00268784 /* ContentView.swift */; };
 		047DDFC127D5432000268784 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 047DDFC027D5432000268784 /* Assets.xcassets */; };
 		047DDFC427D5432000268784 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 047DDFC327D5432000268784 /* Preview Assets.xcassets */; };
+		047DDFCB27D5B79E00268784 /* ContactsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047DDFCA27D5B79E00268784 /* ContactsManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		047DDFBE27D5431E00268784 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		047DDFC027D5432000268784 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		047DDFC327D5432000268784 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		047DDFCA27D5B79E00268784 /* ContactsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				047DDFBC27D5431E00268784 /* IntlContactsApp.swift */,
 				047DDFBE27D5431E00268784 /* ContentView.swift */,
+				047DDFCA27D5B79E00268784 /* ContactsManager.swift */,
 				047DDFC027D5432000268784 /* Assets.xcassets */,
 				047DDFC227D5432000268784 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				047DDFBF27D5431E00268784 /* ContentView.swift in Sources */,
+				047DDFCB27D5B79E00268784 /* ContactsManager.swift in Sources */,
 				047DDFBD27D5431E00268784 /* IntlContactsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
